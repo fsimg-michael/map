@@ -37,6 +37,7 @@
 div {
  position: relative;
  width: 100%;
+ max-width: 500px;
 }
 
 img{
@@ -85,8 +86,8 @@ span::before{
  color: #fff;
  padding: 10px;
  font-family: sans-serif;
- max-width: 90%;
- margin: 10px auto;
+ max-width: 100%;
+ max-width: 500px;
 }.example {
     display: -ms-grid;
     display: grid;
