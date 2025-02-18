@@ -3,10 +3,10 @@ document.addEventListener("DOMContentLoaded", () => {
  const messageDiv = document.getElementById("message")
 
  // Map's geographic boundaries
- const topLat = 35.674215     // top (north)
- const leftLon = 139.709322   // left (west)
- const bottomLat = 35.672706  // bottom (south)
- const rightLon = 139.711079  // right (east)
+ const topLat = 35.674225     // top (north)
+ const leftLon = 139.709372   // left (west)
+ const bottomLat = 35.672746  // bottom (south)
+ const rightLon = 139.711129  // right (east)
 
  // Image dimensions (as specified in the HTML)
  const img = document.querySelector("img")
